@@ -1,1 +1,2 @@
-# Football-Premier-League-Analysis
+# Football Premier League Analysis
+This project entails an in-depth analysis of Football Premier League data using pandas. The dataset includes match details such as home and away teams, goals scored, results, and seasons. The data cleaning process involved identifying and rectifying invalid values, such as replacing unknown seasons, correcting negative goals, and verifying match results. Key analyses performed include calculating the average number of goals per match, determining the team with the most away wins, identifying the team with the most home goals, and finding the team that conceded the least goals at home. These insights help in understanding team performances and trends within the Premier League over different seasons.
